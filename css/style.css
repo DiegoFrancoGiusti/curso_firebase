@@ -8,3 +8,11 @@ body{
     justify-content: center;
     flex-direction: column;
 }
+
+li{
+    list-style: none;
+}
+
+.btn{
+    width: 100%;
+}
